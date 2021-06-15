@@ -1,0 +1,5 @@
+com\aubay\project\utils\CommandsTest.class
+com\aubay\project\LogFileScannerTest.class
+com\aubay\project\model\ReportTest.class
+com\aubay\project\model\RenderingTest.class
+com\aubay\project\model\SummaryTest.class

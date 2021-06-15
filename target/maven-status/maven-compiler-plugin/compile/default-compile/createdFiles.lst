@@ -1,0 +1,9 @@
+com\aubay\project\LogfileScanner.class
+com\aubay\project\IFileGenerator.class
+com\aubay\project\ProjectLauncher.class
+com\aubay\project\utils\Arguments.class
+com\aubay\project\model\Report.class
+com\aubay\project\utils\Commands.class
+com\aubay\project\utils\Constants.class
+com\aubay\project\model\Rendering.class
+com\aubay\project\model\Summary.class
